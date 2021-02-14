@@ -11,6 +11,8 @@
         <FILE id="qhS2ha" name="FFTFilter.h" compile="0" resource="0" file="Source/process/FFTFilter.h"/>
         <FILE id="XXpQWA" name="FilterBase.cpp" compile="1" resource="0" file="Source/process/FilterBase.cpp"/>
         <FILE id="KeOwsq" name="FilterBase.h" compile="0" resource="0" file="Source/process/FilterBase.h"/>
+        <FILE id="g4zkkN" name="PitchFilter.cpp" compile="1" resource="0" file="Source/process/PitchFilter.cpp"/>
+        <FILE id="H8PRSj" name="PitchFilter.h" compile="0" resource="0" file="Source/process/PitchFilter.h"/>
       </GROUP>
       <FILE id="IlFofy" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
